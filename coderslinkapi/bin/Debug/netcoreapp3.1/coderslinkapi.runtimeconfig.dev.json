@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\riddler\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\riddler\\.nuget\\packages"
+    ]
+  }
+}
